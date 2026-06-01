@@ -1,0 +1,8 @@
+﻿*.pbix
+*.pbit
+*.xlsx
+*.csv
+.env
+__pycache__/
+*.pyc
+.vscode/
