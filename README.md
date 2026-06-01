@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# Education Finance Intelligence Platform
+# Education Finance Intelligence Platform
 
 ## Project Overview
 
@@ -34,6 +33,3 @@ Current Phase: Phase 1 - Project Initiation and Governance
 - Executive Dashboards
 - Testing and Validation
 - Executive Presentation
-=======
-# Education-Finance-Intelligence-Platform
->>>>>>> fb57f5d3cc7e9a26a6b84174366be854cd2a068e
